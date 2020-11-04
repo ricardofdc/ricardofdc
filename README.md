@@ -57,7 +57,7 @@ Some projects I developed while studying in FEUP:
 - [Backup Distributed System](https://github.com/ricardofdc/SDIS_19-20/tree/master/projeto1) (Java)
 - [BrickBreaker](https://github.com/ricardofdc/LPOO_19-20) (Game developed in Java using Design Patterns)
 - [Basic subset of Java Compiler](https://github.com/ricardofdc/COMP_19-20) (Java)
-- [Graphic scene of bird flying]() (JavaScript, WebGL)
+- [Graphic scene of bird flying](https://github.com/ricardofdc/CGRA_18-19/tree/master/projB) (JavaScript, WebGL)
 
 ### Hobbies
 
