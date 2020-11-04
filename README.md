@@ -15,10 +15,11 @@
 - [ ] FEUP: Integrated Master's in Informatics and Computing Engineering (MIEIC) `Sep.2017 - now`
 - [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `Sep.2014 - June 2017`
 
-
+<!--
 ## Professional Experience
 
 - Currently looking for some
+-->
 
 ## Skills
 
