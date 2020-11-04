@@ -1,4 +1,4 @@
-# My *Curriculum Vitae*
+<!-- # My *Curriculum Vitae* -->
 
 ## Contact information
 
