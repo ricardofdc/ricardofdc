@@ -12,7 +12,7 @@
 
 ## Academic History
 
-- [ ] Android Training Program 2020 by Google `Oct.2020 - Dec.2020`
+- [ ] Android Training Program 2020 by Google `Oct.2020 - now<!--Dec.2020-->`
 - [ ] FEUP: Integrated Master's in Informatics and Computing Engineering (MIEIC) `Sep.2017 - now`
 - [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `Sep.2014 - June 2017`
 
