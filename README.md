@@ -12,9 +12,9 @@
 
 ## Academic History
 
-- [ ] Android Training Program 2020 by Google `Oct.2020 - now` <!-- Dec.2020 -->
-- [ ] FEUP: Integrated Master's in Informatics and Computing Engineering (MIEIC) `Sep.2017 - now`
-- [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `Sep.2014 - June 2017`
+- [ ] Android Training Program 2020 by Google `(Oct.2020 - now)` <!-- Dec.2020 -->
+- [ ] FEUP: Integrated Master's in Informatics and Computing Engineering (MIEIC) `(Sep.2017 - now)`
+- [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `(Sep.2014 - June 2017)`
 
 <!--
 ## Professional Experience
@@ -25,18 +25,18 @@
 ## Skills
 
 - Languages: `Portuguese (main language), English (advance) and Spanish (basic).`
-- Programing: ` -Java,
-                -Kotlin,
-                -C,
-                -C++,
-                -JavaScript,
-                -Phyton,
-                -WebGL,
-                -Html,
-                -Php,
-                -Git,
-                -SQL,
-                -Design Patterns,
+- Programing: ` - Java,  
+                - Kotlin,  
+                - C,  
+                - C++,  
+                - JavaScript,  
+                - Phyton,  
+                - WebGL,  
+                - Html,  
+                - Php,  
+                - Git,  
+                - SQL,  
+                - Design Patterns,  
                 ...
                 `
 
