@@ -45,11 +45,11 @@
 
 - FCE - First Certificate in English @University of Cambridge
 
-## Other information
 
-<!-- ### Awards and honors -->
 
-### Projects
+<!-- ## Awards and honors -->
+
+## Projects
 
 Some projects I developed while studying in FEUP:
 
@@ -60,7 +60,7 @@ Some projects I developed while studying in FEUP:
 - [Basic subset of Java Compiler](https://github.com/ricardofdc/COMP_19-20) (Java)
 - [Graphic scene of bird flying](https://github.com/ricardofdc/CGRA_18-19/tree/master/projB) (JavaScript, WebGL)
 
-### Hobbies
+## Hobbies
 
 - Travell
 - Volleyball
