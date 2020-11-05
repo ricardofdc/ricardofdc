@@ -7,6 +7,7 @@
 **Phone:** (+351) 912452140  
 **Email:** ricardofdc98@gmail.com  
 **Github:** github.com/ricardofdc  
+**LinkdIn:** www.linkedin.com/in/ricardofdc
 
 
 ## Academic History
