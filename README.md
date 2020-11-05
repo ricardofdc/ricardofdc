@@ -47,7 +47,7 @@
 
 ## Other information
 
-### Awards and honors
+<!-- ### Awards and honors -->
 
 ### Projects
 
