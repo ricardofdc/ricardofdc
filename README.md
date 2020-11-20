@@ -12,15 +12,10 @@
 
 ## Academic History
 
-- [ ] Android Training Program 2020 by Google `(Oct.2020 - now)` <!-- Dec.2020 -->
 - [ ] FEUP: Integrated Master's in Informatics and Computing Engineering (MIEIC) `(Sep.2017 - now)`
 - [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `(Sep.2014 - June 2017)`
 
-<!--
-## Professional Experience
-
-- Currently looking for some
--->
+<!--## Professional Experience-->
 
 ## Skills
 
@@ -46,12 +41,9 @@
 - FCE - First Certificate in English @University of Cambridge
 
 
-
-<!-- ## Awards and honors -->
-
 ## Projects
 
-Some projects I developed while studying in FEUP:
+Some projects I developed while studying at FEUP:
 
 - [Artificial Inteligence playing ZHED as a Search Problem](https://github.com/ricardofdc/IART_19-20/tree/master/proj1) (Java)
 - [Artificial Inteligence playing ZHED with Reenforcement Learning](https://github.com/ricardofdc/IART_19-20/tree/master/proj2) (Java)
