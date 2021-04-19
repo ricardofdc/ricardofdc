@@ -3,7 +3,7 @@
 ## Contact information
 
 **Name:** Ricardo Cardoso  
-**Adress:** Ovar, Portugal  
+**Address:** Ovar, Portugal  
 **Phone:** (+351) 912452140  
 **Email:** ricardofdc98@gmail.com  
 **Github:** github.com/ricardofdc  
@@ -15,7 +15,9 @@
 - [ ] FEUP: Integrated Master's in Informatics and Computing Engineering (MIEIC) `(Sep.2017 - now)`
 - [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `(Sep.2014 - June 2017)`
 
-<!--## Professional Experience-->
+## Professional Experience
+
+- Team Leader at [Dive Studios](htpps://www.divestudios.pt) `Feb.2021 - Apr.2021`
 
 ## Skills
 
@@ -24,13 +26,16 @@
                 - Kotlin,  
                 - C,  
                 - C++,  
-                - JavaScript,  
+                - JavaScript,
+                - ReactJS, 
+                - NodeJS, 
                 - Phyton,  
                 - WebGL,  
                 - Html,  
-                - Php,  
+                - Php,
+                - Laravel,
                 - Git,  
-                - SQL,  
+                - Databases (SQL and NoSQL),  
                 - Design Patterns,  
                 ...
                 `
