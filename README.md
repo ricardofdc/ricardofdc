@@ -17,7 +17,7 @@
 
 ## Professional Experience
 
-- Team Leader at [Dive Studios](https://www.divestudios.pt) (`Feb.2021 - Jun.2021`)
+- Team Leader at [Dive Studios](https://www.divestudios.pt) `(Feb.2021 - Jun.2021)`
 
 ## Skills
 
