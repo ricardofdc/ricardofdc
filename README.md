@@ -21,24 +21,28 @@
 
 ## Skills
 
-- Languages: `Portuguese (main language), English (advance) and Spanish (basic).`
-- Programing: ` - Java,  
-                - Kotlin,  
-                - C,  
-                - C++,  
-                - JavaScript,
-                - ReactJS, 
-                - NodeJS, 
-                - Phyton,  
-                - WebGL,  
-                - Html,  
-                - Php,
-                - Laravel,
-                - Git,  
-                - Databases (SQL and NoSQL),  
-                - Design Patterns,  
-                ...
-                `
+- Languages: 
+   - Portuguese (main language)
+   - English (advance) 
+   - Spanish (basic).
+- Programing: 
+   - Java,  
+   - Kotlin,  
+   - C,  
+   - C++,  
+   - JavaScript,
+   - ReactJS, 
+   - NodeJS, 
+   - Phyton,  
+   - WebGL,  
+   - Html,  
+   - Php,
+   - Laravel,
+   - Git,  
+   - Databases (SQL and NoSQL),  
+   - Design Patterns,  
+   - ...
+                
 
 
 ## Licenses and Certificates
