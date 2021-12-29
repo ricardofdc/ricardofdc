@@ -30,17 +30,15 @@
    - Kotlin,  
    - C,  
    - C++,  
-   - JavaScript,
-   - ReactJS, 
-   - NodeJS, 
+   - JavaScript (NodeJs, ReactJS),
    - Phyton,  
    - WebGL,  
    - Html,  
    - Php,
-   - Laravel,
    - Git,  
    - Databases (SQL and NoSQL),  
    - Design Patterns,  
+   - IoT (MQTT),
    - ...
                 
 
