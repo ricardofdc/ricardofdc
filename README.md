@@ -37,8 +37,8 @@
    - Php,
    - Git,  
    - Databases (SQL and NoSQL),  
-   - Design Patterns,  
-   - IoT (MQTT),
+   - IoT (MQTT),  
+   - Design Patterns, AGILE, SCRUM,  
    - ...
                 
 
