@@ -22,7 +22,7 @@
 ## Skills
 
 - Languages: 
-   - Portuguese (main language)
+   - Portuguese (native)
    - English (advance) 
    - Spanish (basic).
 - Programing: 
