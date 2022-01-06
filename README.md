@@ -12,7 +12,7 @@
 
 ## Academic History
 
-- [ ] FEUP: Master's in Informatics and Computing Engineering (MIEIC) `(Sep.2020 - now)`
+- [ ] FEUP: Master's in Informatics and Computing Engineering (M.EIC) `(Sep.2020 - now)`
 - [x] FEUP: Degree in Engineering Sciences (Informatics and Computing Engineering) `(Sep.2018 - Jun.2021)`
 - [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `(Sep.2014 - Jun.2017)`
 
