@@ -24,7 +24,7 @@
 
 - Languages: 
    - Portuguese (native)
-   - English (advance) 
+   - English (advance, C1) 
    - Spanish (basic).
 - Programing: 
    - Java,  
