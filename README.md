@@ -18,31 +18,26 @@
 
 ## Professional Experience
 
-- Team Leader at [Dive Studios](https://www.divestudios.pt) `(Feb.2021 - Jun.2021)`
+### Team Leader at [Dive Studios](https://www.divestudios.pt) `(Feb.2021 - Jun.2021)`
+
+Team Leader of the BRISK project.
+We developed an attractive and user-friendly platform that allows any user to create an account and set up their projects, obtaining an analysis of a wide range of metrics.
+
+## Projects
+
+While studying at FEUP I developed multiple team projects with the duration of 5 months each (1 semester). These projects are related to websites, databases, security, distributed systems, internet of things, artificial intelligence, logic programming, graphic interfaces and computing, compilers, operating systems, search engines, games, software testing, among others.
 
 ## Skills
 
-- Languages: 
+### Languages
+
    - Portuguese (native)
    - English (advance, C1) 
    - Spanish (basic).
-- Programing: 
-   - Java,  
-   - Kotlin,  
-   - C,  
-   - C++,  
-   - JavaScript (NodeJs, ReactJS),
-   - Phyton,  
-   - WebGL,  
-   - Html,  
-   - Php,
-   - Git,  
-   - Databases (SQL and NoSQL),  
-   - IoT (MQTT),  
-   - Design Patterns, 
-   - Agile, 
-   - Scrum,  
-   - ...
+
+### Programing: 
+
+Java, Kotlin, C, C++, JavaScript (NodeJs, ReactJS), Phyton, WebGL, Html, Php, Git, Databases (SQL and NoSQL), IoT (MQTT), Design Patterns, Agile, Scrum...  
                 
 
 
@@ -50,17 +45,6 @@
 
 - FCE - First Certificate in English @University of Cambridge
 
-
-## Projects
-
-Some projects I developed while studying at FEUP:
-
-- [Artificial Inteligence playing ZHED as a Search Problem](https://github.com/ricardofdc/IART_19-20/tree/master/proj1) (Java)
-- [Artificial Inteligence playing ZHED with Reenforcement Learning](https://github.com/ricardofdc/IART_19-20/tree/master/proj2) (Java)
-- [Backup Distributed System](https://github.com/ricardofdc/SDIS_19-20/tree/master/projeto1) (Java)
-- [BrickBreaker](https://github.com/ricardofdc/LPOO_19-20) (Game developed in Java using Design Patterns)
-- [Basic subset of Java Compiler](https://github.com/ricardofdc/COMP_19-20) (Java)
-- [Graphic scene of bird flying](https://github.com/ricardofdc/CGRA_18-19/tree/master/projB) (JavaScript, WebGL)
 
 ## Hobbies
 
