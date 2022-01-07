@@ -5,7 +5,7 @@
 **Name:** Ricardo Cardoso  
 **Address:** Ovar, Portugal  
 **Phone:** (+351) 912452140  
-**Email:** ricardofdc98@gmail.com  
+**Email:** ricardofdc@live.com  
 **Github:** github.com/ricardofdc  
 **LinkdIn:** www.linkedin.com/in/ricardofdc
 
