@@ -42,17 +42,3 @@ While studying at FEUP I developed multiple team projects with the duration of 5
 Java, Kotlin, C, C++, JavaScript (NodeJs, ReactJS), Phyton, WebGL, Html, Php, Git, Databases (SQL and NoSQL), IoT (MQTT), Design Patterns, Agile, Scrum...  
                 
 
-
-## Licenses and Certificates
-
-- FCE - First Certificate in English @University of Cambridge
-
-
-## Hobbies
-
-- Travell
-- Volleyball
-    - National Champion in indoor volleyball sub 19 (2015/2016)
-    - National Champion in beach volleybal sub 17 (2014)
-
-
