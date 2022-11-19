@@ -18,7 +18,12 @@
 
 ## Professional Experience
 
-### Team Leader at [Dive Studios](https://www.divestudios.pt) 
+### Master's Thesis - AGVs: centralised vs distributed control of traffic intersections
+_FEUP and Deloitte `(Sep.2022 - Feb.2023)`_
+
+Develop and compare multiple Reinforcement Learning models to control traffic intersections of Automated Guided Vehicles (AGVs).
+
+### Team Leader at Dive Studios
 _FEUP and Memória Visual `(Feb.2021 - Jun.2021)`_
 
 Team Leader of the BRISK project.
@@ -27,18 +32,21 @@ We developed an attractive and user-friendly platform that allows any user to cr
 ### Projects
 _FEUP `(Set.2017 - now)`_
 
-While studying at FEUP I developed multiple team projects with the duration of 5 months each (1 semester). These projects are related to websites, databases, security, distributed systems, internet of things, artificial intelligence, logic programming, graphic interfaces and computing, compilers, operating systems, search engines, games, software testing, among others.
+While studying at FEUP, I developed multiple team projects for five months each (1 semester). These projects were related to websites, databases, security, distributed systems, the Internet of Things, artificial intelligence, logic programming, graphic interfaces and computing, compilers, operating systems, search engines, games, and software testing.
 
 ## Skills
 
+### Certifications
+
+AWS Certified Cloud Practicioner
+
+### Programing
+
+Java, Kotlin, C, C++, JavaScript (NodeJs, ReactJS), Phyton, WebGL, Html, Php, Git, Databases (SQL and NoSQL), IoT (MQTT), Information Retrieval, Software Testing, Design Patterns, Agile, Scrum...  
+           
 ### Languages
 
    - Portuguese (native)
    - English (advance, C1) 
    - Spanish (basic).
-
-### Programing: 
-
-Java, Kotlin, C, C++, JavaScript (NodeJs, ReactJS), Phyton, WebGL, Html, Php, Git, Databases (SQL and NoSQL), IoT (MQTT), Design Patterns, Agile, Scrum...  
-                
 
