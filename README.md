@@ -12,11 +12,14 @@
 
 ## Academic History
 
-- [ ] FEUP: Master's in Informatics and Computing Engineering (M.EIC) `(Sep.2020 - now)`
+- [x] FEUP: Master's in Informatics and Computing Engineering (M.EIC) `(Sep.2020 - Feb.2023)`
 - [x] FEUP: Degree in Engineering Sciences (Informatics and Computing Engineering) `(Sep.2018 - Jun.2021)`
 - [x] Colégio Liceal de Santa Maria de Lamas: Sciences and Technologies `(Sep.2014 - Jun.2017)`
 
 ## Professional Experience
+
+### Embedded Software Developer
+_Bosch `(March.2023 - now)`_
 
 ### Master's Thesis - AGVs: centralised vs distributed control of traffic intersections
 _FEUP and Deloitte `(Sep.2022 - Feb.2023)`_
