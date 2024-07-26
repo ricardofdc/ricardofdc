@@ -18,7 +18,7 @@
 
 ## Professional Experience
 
-### Embedded Software Developer
+### Senior Embedded Software Engineer
 _Bosch Security and Safety Systems `(March.2023 - now)`_
 - Develop embedded C++ software for fire security systems.
 
